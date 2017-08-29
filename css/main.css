@@ -161,15 +161,16 @@ body {
   font-family: "source-code-pro", monospace;
 }
 
+.wf-loading {
+  visibility: hidden;
+}
+
 .explainer h1 {
   font-family: "mono45-headline", "Impact", sans-serif;
   font-weight: 600;
   font-size: 72px;
+  line-height: 1;
   letter-spacing: 0.02em;
-}
-
-.explainer {
-
 }
 
 
