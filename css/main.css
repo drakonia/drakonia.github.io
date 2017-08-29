@@ -161,7 +161,7 @@ body {
   font-family: "source-code-pro", monospace;
 }
 
-.wf-loading {
+.wf-loading .explainer {
   visibility: hidden;
 }
 
