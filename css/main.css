@@ -164,19 +164,17 @@ body {
 .explainer h1 {
   text-transform: uppercase;
   font-weight: 600;
-  font-size: 72px;
-  line-height: 1;
-  letter-spacing: 0.02em;
+}
+
+@media only screen and (min-width: 641px) {
+  .explainer h1 {
+    font-size: 4.5rem;
+    line-height: 1;
+    letter-spacing: 0.02em;
+  }
 }
 
 
-
-
-
-
-/* ==========================================================================
-   Media Queries
-   ========================================================================== */
 
 @media only screen and (min-width: 1140px) {
 
